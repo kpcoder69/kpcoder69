@@ -32,7 +32,7 @@ Here are some of the languages and tools I work with:
 - HTML/CSS
 
 - Numpy
-
+<img align ="right" src=" https://github.com/kpcoder69/kpcoder69/assets/110976645/565bc192-5473-4bd7-a7e8-8070b327d5a8">
 - Pandas
 
 - Matplotlib
