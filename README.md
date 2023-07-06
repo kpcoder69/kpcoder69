@@ -21,7 +21,7 @@ Here are some of the languages and tools I work with:
 
 - Python
 
-![image](https://github.com/kpcoder69/kpcoder69/assets/110976645/e4454f23-9afa-4785-ab3d-a028687c65f1)
+<img align ="right" src="https://github.com/kpcoder69/kpcoder69/assets/110976645/e4454f23-9afa-4785-ab3d-a028687c65f1">
 
 - R
 
