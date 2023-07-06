@@ -10,7 +10,6 @@ A passionate Student of Emerging Technologies from India.
 # About Me
 I enjoy discovering new ideas and learning new things. Maybe I don't have the answer to every difficulty. But I know how to solve the problem. My primary programming languages are Python and Java. Python and Data Structures and Algorithms are my strongest areas. Aside from these, I am familiar with Web Development, Computer Networking, Operating Systems, and databases (MongoDB).
 
-![image](https://github.com/kpcoder69/kpcoder69/assets/110976645/565bc192-5473-4bd7-a7e8-8070b327d5a8)
 
 
 # Fun Fact
@@ -32,7 +31,7 @@ Here are some of the languages and tools I work with:
 - HTML/CSS
 
 - Numpy
-<img align ="right" src=" https://github.com/kpcoder69/kpcoder69/assets/110976645/565bc192-5473-4bd7-a7e8-8070b327d5a8">
+<img align ="right" src="https://github.com/kpcoder69/kpcoder69/assets/110976645/565bc192-5473-4bd7-a7e8-8070b327d5a8">
 - Pandas
 
 - Matplotlib
